@@ -1,5 +1,13 @@
 ### A custom flutter app to download TikTok videos with or without watermark with a lot of customization
 
+
+    Version 1.0.4.1 Updated 19 September 2020 
+    
+    - Fix downlaod videos with watermark not working 
+    - Improve downlaod Speed 
+    - Fix thumbnails extraction due to recent change on tiktok
+    
+    
     Version 1.0.4 Updated 7 September 2020
 
     - Fix small bugs 
